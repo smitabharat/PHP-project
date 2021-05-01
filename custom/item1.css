@@ -1,0 +1,53 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #17202A;
+  color: white;
+  text-align: center;
+}
+
+.title .t1{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.title .t2{
+  font-size: 12px;
+  color: #839192;
+}
+
+.title1 .t3{
+  font-size: 56px;
+}
+
+.title1 .t4{
+  font-size: 26px;
+  color: #27AE60;
+}
+.title1 .t5{
+  font-size: 26px;
+  color: #E74C3C;
+}
+
+.title1 .t2{
+  font-size: 12px;
+  color: #839192;
+}
+
+hr.l1{
+  border: 1px solid #ECF0F1;
+  border-radius: 5px;
+}
+
+hr.l2{
+  border: 3px solid #ECF0F1;
+  border-radius: 5px;
+}
+
+hr.l3{
+  border: 1px solid #99A3A4;
+  border-radius: 5px;
+}
+
